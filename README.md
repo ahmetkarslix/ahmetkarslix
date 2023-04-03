@@ -9,7 +9,7 @@ Computer Engineering Student 3/4
 * 🧠  I'm learning Java, Python, JFrame and C#
 
 <a href="https://www.github.com/ahmetkarslix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/ahmetkarslix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ahmetkarslix" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ahmetkarslix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ahmetkarsliix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ahmetkarslix?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
@@ -33,7 +33,7 @@ src="https://img.shields.io/twitter/follow/ahmetkarslix?logo=twitter&style=for-t
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/ahmetkarslix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ahmetkarslix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmet-karsl%C4%B1-71a0931bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ahmetkarslix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/ahmetkarslix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ahmetkarslix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ahmet-karsl%C4%B1-71a0931bb/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ahmetkarsliix" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Support Me
 
