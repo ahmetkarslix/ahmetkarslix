@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet Karslı
 ====================================================================================================================================
 
-Computer Engineering Student 4/4
+Computer Engineering Student 4/4 | Development Intern at Insider
 --------------------------------
 
 * 🌍  I'm based in Turkey/Isparta
-* ✉️  You can contact me at [ahmetkarsliceng@gmail.com](mailto:ahmetkarsliceng@gmail.com)
+* ✉️  You can contact me at [ahmetkarsliceng@gmail.com](mailto:ahmetkarsliceng@gmail.com)  | [ ahmet.karsli@useinsider.com ] (mailto:ahmet.karsli@useinsider.com)
 * 🧠  I'm learning Java, Python, JFrame and C#
 
 <a href="https://www.github.com/ahmetkarslix" target="_blank" rel="noreferrer"><img
