@@ -5,7 +5,7 @@ Computer Engineering Student 4/4 | Development Intern at Insider
 --------------------------------
 
 * 🌍  I'm based in Turkey/Isparta
-* ✉️  You can contact me at [ahmetkarsliceng@gmail.com](mailto:ahmetkarsliceng@gmail.com)  | [ ahmet.karsli@useinsider.com ] (mailto:ahmet.karsli@useinsider.com)
+* ✉️  You can contact me at [ahmetkarsliceng@gmail.com](mailto:ahmetkarsliceng@gmail.com)  | [ ahmet.karsli@useinsider.com ](mailto:ahmet.karsli@useinsider.com)
 * 🧠  I'm learning Java, Python, JFrame and C#
 
 <a href="https://www.github.com/ahmetkarslix" target="_blank" rel="noreferrer"><img
