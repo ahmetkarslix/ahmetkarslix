@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ahmet Karslı
 ====================================================================================================================================
 
-Computer Engineering Student 4/4 | Development Intern at Insider
+Computer Engineering Student 4.5/4 | Development Intern at Insider
 --------------------------------
 
 * 🌍  I'm based in Turkey/Isparta
